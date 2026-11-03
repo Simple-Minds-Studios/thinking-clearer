@@ -1,0 +1,26 @@
+{
+  "podcast": "Thinking Clearer with Lincoln",
+  "channel_url": "https://www.youtube.com/@SimpleMindsStudios/videos",
+  "verified_on": "2026-11-03",
+  "verification": "Public channel listing and each individual YouTube watch page. Episode descriptions adapted from the existing SMS podcast page.",
+  "episodes": [
+    {
+      "number": "001",
+      "title": "Maps in the Mind",
+      "youtube_url": "https://www.youtube.com/watch?v=Hahd5jdcR3k",
+      "description": "How perception quietly organizes reality before we notice it."
+    },
+    {
+      "number": "002",
+      "title": "Borrowed Thoughts",
+      "youtube_url": "https://www.youtube.com/watch?v=IvM9KoJ85dQ",
+      "description": "How much of what we believe did we actually choose?"
+    },
+    {
+      "number": "003",
+      "title": "The Discipline of Not Knowing",
+      "youtube_url": "https://www.youtube.com/watch?v=HnNYcDar6_Q",
+      "description": "What happens when our thoughts demand closure too soon?"
+    }
+  ]
+}
